@@ -5,7 +5,7 @@ abstract class Oyuncu {
   Oyuncu(this._can, this.ad);
 
   int get can {
-    return _can; 
+    return this._can; 
   }
 
   set can(int deger) {
