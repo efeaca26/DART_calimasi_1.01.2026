@@ -4,7 +4,7 @@ class Klima {
 
   Klima(this.marka, this._sicaklik);
 
-  get sicaklik{
+   get sicaklik{
     this._sicaklik;
   } 
   set sicaklik(int gelendeger){
