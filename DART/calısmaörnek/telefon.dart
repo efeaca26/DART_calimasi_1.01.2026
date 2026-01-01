@@ -6,3 +6,5 @@ class Telefon {
     _fiyat = "-1000";
   }
 }
+
+//saaaa
