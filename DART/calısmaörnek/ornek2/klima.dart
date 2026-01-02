@@ -5,7 +5,7 @@ class Klima {
   Klima(this.marka, this._sicaklik);
 
    get sicaklik{
-    this._sicaklik;
+    return _sicaklik;
   } 
   set sicaklik(int gelendeger){
     if (gelendeger > 30){
