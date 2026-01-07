@@ -6,8 +6,7 @@ class Calisan {
   int telefon;
   double? _zam;
   
-  Calisan(this.ad, this.soyad, this.adres, 
-  this.maas, this.telefon) 
+  Calisan(this.ad, this.soyad, this.adres, this.maas, this.telefon)
   {
     _zam = maas / 10;
   }

@@ -15,7 +15,4 @@ class Buyucu extends Oyuncu implements buyuyapabilir, Saldirimethod{
   void manaharca(int miktar) {
     print("$ad büyü yaptı ve $miktar mana harcadı!");
   }
-  
- 
-  
 }
